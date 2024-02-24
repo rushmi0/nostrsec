@@ -8,12 +8,11 @@
 
     <Button
         android:id="@+id/btn1"
-        android:layout_width="141dp"
-        android:layout_height="57dp"
-        android:text="Count Me"
+        android:layout_width="174dp"
+        android:layout_height="77dp"
+        android:text="Click me"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Nostrsec"
         tools:targetApi="31">
         <activity
+            android:name=".fragments.MainFragment"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
